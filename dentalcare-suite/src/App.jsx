@@ -2,6 +2,12 @@ import './App.css'
 import { PatientCard } from './components/PatientCard'
 
 export function App(){
+
+    const patients = [
+        {id:'', firstName: 'Francisco Javier', familyName:'Piqueras Martinez', phoneNumber: '34655601562', address:'javipiquerasm@gmail.com', details: 'Primer Paciente'},
+        {id:'', firstName: 'Kenza', familyName:'El Alaoui', phoneNumber: '34655601562', address:'kea@gmail.com', details: 'Myself'}
+    ]
+
     return (
         <>
             <header className='dcs-header'>
@@ -9,8 +15,11 @@ export function App(){
             </header>
             <main className='dcs-main'>
                 <section className='dcs-patientsection'>
-                    <PatientCard firstName="Francisco Javier" familyName="Piqueras Martinez" phoneNumber="+34655601562" address="javipiquerasm@gmail.com" details="Primer Paciente"/>
-                    <PatientCard firstName="Kenza" familyName="El Alaoui" phoneNumber="+34655601562" address="kea@gmail.com" details="Myself"/>
+                    {patients.map(p => {
+                        return(
+                            <PatientCard key={p.id} firstName={p.firstName} familyName={p.familyName} address={p.address} phoneNumber={p.phoneNumber} details={p.details} />
+                        )
+                    })}
                 </section>
             </main>
         </>
