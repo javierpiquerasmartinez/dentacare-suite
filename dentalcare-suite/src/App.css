@@ -27,4 +27,7 @@ body {
 .dcs-patientsection {
     display: flex;
     gap: 16px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-start;
 }
