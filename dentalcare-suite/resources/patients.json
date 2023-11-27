@@ -1,0 +1,163 @@
+
+[
+    {
+        "id": "1",
+        "firstName": "Francisco Javier",
+        "familyName": "Piqueras Martinez",
+        "phoneNumber": "+34655601562",
+        "address": "javipiquerasm@gmail.com",
+        "details": "Primer Paciente"
+    },
+    {
+        "id": "2",
+        "firstName": "María",
+        "familyName": "González",
+        "phoneNumber": "+34987654321",
+        "address": "maria.gonzalez@example.com",
+        "details": "Segundo Paciente"
+    },
+    {
+        "id": "3",
+        "firstName": "Carlos",
+        "familyName": "Rodríguez",
+        "phoneNumber": "+34123456789",
+        "address": "carlos.rodriguez@example.com",
+        "details": "Tercer Paciente"
+    },
+    {
+        "id": "4",
+        "firstName": "Ana",
+        "familyName": "López",
+        "phoneNumber": "+34987654321",
+        "address": "ana.lopez@example.com",
+        "details": "Cuarto Paciente"
+    },
+    {
+        "id": "5",
+        "firstName": "David",
+        "familyName": "Fernández",
+        "phoneNumber": "+34123456789",
+        "address": "david.fernandez@example.com",
+        "details": "Quinto Paciente"
+    },
+    {
+        "id": "6",
+        "firstName": "Elena",
+        "familyName": "Martínez",
+        "phoneNumber": "+34987654321",
+        "address": "elena.martinez@example.com",
+        "details": "Sexto Paciente"
+    },
+    {
+        "id": "7",
+        "firstName": "Juan",
+        "familyName": "Sánchez",
+        "phoneNumber": "+34123456789",
+        "address": "juan.sanchez@example.com",
+        "details": "Séptimo Paciente"
+    },
+    {
+        "id": "8",
+        "firstName": "Laura",
+        "familyName": "Gómez",
+        "phoneNumber": "+34987654321",
+        "address": "laura.gomez@example.com",
+        "details": "Octavo Paciente"
+    },
+    {
+        "id": "9",
+        "firstName": "Miguel",
+        "familyName": "Pérez",
+        "phoneNumber": "+34123456789",
+        "address": "miguel.perez@example.com",
+        "details": "Noveno Paciente"
+    },
+    {
+        "id": "10",
+        "firstName": "Sara",
+        "familyName": "Ramírez",
+        "phoneNumber": "+34987654321",
+        "address": "sara.ramirez@example.com",
+        "details": "Décimo Paciente"
+    },
+    {
+        "id": "11",
+        "firstName": "Pedro",
+        "familyName": "Hernández",
+        "phoneNumber": "+34123456789",
+        "address": "pedro.hernandez@example.com",
+        "details": "Undécimo Paciente"
+    },
+    {
+        "id": "12",
+        "firstName": "Carmen",
+        "familyName": "Jiménez",
+        "phoneNumber": "+34987654321",
+        "address": "carmen.jimenez@example.com",
+        "details": "Duodécimo Paciente"
+    },
+    {
+        "id": "13",
+        "firstName": "Javier",
+        "familyName": "García",
+        "phoneNumber": "+34123456789",
+        "address": "javier.garcia@example.com",
+        "details": "Decimotercer Paciente"
+    },
+    {
+        "id": "14",
+        "firstName": "Isabel",
+        "familyName": "Torres",
+        "phoneNumber": "+34987654321",
+        "address": "isabel.torres@example.com",
+        "details": "Decimocuarto Paciente"
+    },
+    {
+        "id": "15",
+        "firstName": "José",
+        "familyName": "López",
+        "phoneNumber": "+34123456789",
+        "address": "jose.lopez@example.com",
+        "details": "Decimoquinto Paciente"
+    },
+    {
+        "id": "16",
+        "firstName": "Eva",
+        "familyName": "Fernández",
+        "phoneNumber": "+34987654321",
+        "address": "eva.fernandez@example.com",
+        "details": "Decimosexto Paciente"
+    },
+    {
+        "id": "17",
+        "firstName": "Francisco",
+        "familyName": "González",
+        "phoneNumber": "+34123456789",
+        "address": "francisco.gonzalez@example.com",
+        "details": "Decimoséptimo Paciente"
+    },
+    {
+        "id": "18",
+        "firstName": "Cristina",
+        "familyName": "Martínez",
+        "phoneNumber": "+34987654321",
+        "address": "cristina.martinez@example.com",
+        "details": "Decimooctavo Paciente"
+    },
+    {
+        "id": "19",
+        "firstName": "Alberto",
+        "familyName": "Sánchez",
+        "phoneNumber": "+34123456789",
+        "address": "alberto.sanchez@example.com",
+        "details": "Decimonoveno Paciente"
+    },
+    {
+        "id": "20",
+        "firstName": "Raquel",
+        "familyName": "Gómez",
+        "phoneNumber": "+34987654321",
+        "address": "raquel.gomez@example.com",
+        "details": "Vigésimo Paciente"
+    }
+]
